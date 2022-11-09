@@ -1,3 +1,4 @@
+English | [繁體中文](README_TCH.md)
 # QR-Code-Generator
 A tool for generating qr code.
 
